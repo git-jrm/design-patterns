@@ -15,8 +15,32 @@
 These patterns offer different ways to create objects making code more flexibility and reuse current code.
 | Creational Patterns | Description |
 | --- | --- |
-| Factory Method | Provide interface for create objects in a superclass |
+| Builder | To complex object with multiparameter |
+| Singleton | Ensure single DB connections |
+| Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
 
 # STRUCTURAL PATTERNS
+Adapter: Traduce interfaces incompatibles.
+Decorator: Extiende funcionalidad dinámicamente evitando jerarquías rígidas de herencia.
 
 # BEHAVIORAL PATTERNS
+| Creational Patterns | Description |
+| --- | --- |
+| Chain of Responsibility |  |
+| Command |  |
+| Iterator |  |
+| Mediator |  |
+| Memento |  |
+| Observer |  |
+| State |  |
+| Strategy |  |
+| Template Method |  |
+| Visitor |  |
+
+Strategy: Elimina switch/if-else complejos encapsulando algoritmos intercambiables.
+Observer: Eje central de arquitecturas orientadas a eventos y programación reactiva.
+
+*(Tendencia actual: Prefiere composición sobre herencia y simplifica patrones pesados (como Strategy o Command) usando funciones de primera clase o closures en lenguajes modernos.)
+
+
+
