@@ -16,7 +16,7 @@ These patterns offer different ways to create objects making code more flexibili
 | Creational Patterns | Description |
 | --- | --- |
 | Builder | To complex object with multiparameter |
-| Singleton | Ensure single DB connections |
+| ok-Singleton (unique instance) | Ensure only one instance and provide global access of a class |
 | Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
 
 # STRUCTURAL PATTERNS
@@ -31,12 +31,13 @@ Decorator: Extiende funcionalidad dinámicamente evitando jerarquías rígidas d
 | Iterator |  |
 | Mediator |  |
 | Memento |  |
-| Observer |  |
+| ok-Observer (pub-sub, listener) | Messaging pattern define subs mechanism to notify objects |
 | State |  |
 | Strategy |  |
 | Template Method |  |
 | Visitor |  |
 
+--
 Strategy: Elimina switch/if-else complejos encapsulando algoritmos intercambiables.
 Observer: Eje central de arquitecturas orientadas a eventos y programación reactiva.
 
