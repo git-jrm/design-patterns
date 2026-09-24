@@ -29,7 +29,7 @@ These patterns offer different ways to create objects making code more flexibili
 | Creational Patterns | Description |
 | --- | --- |
 | -Observer (pub-sub, listener) | Messaging pattern define pub-subs mechanism to notify objects |
-| -Strategy |  |
+| -Strategy | Allows create a group of different algorithms in interchangeable classes |
 | Chain of Responsibility |  |
 | Command |  |
 | Iterator |  |
