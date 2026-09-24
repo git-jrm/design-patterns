@@ -15,27 +15,27 @@
 These patterns offer different ways to create objects making code more flexibility and reuse current code.
 | Creational Patterns | Description |
 | --- | --- |
-| ok-Singleton (unique instance) | Ensure only one instance and provide global access of a class |
-| Builder | To complex object with multiparameter |
-| Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
+| -Singleton (unique instance) | Ensure only one instance and provide global access of a class |
+| -Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
+| -Builder | To complex object with multiparameter |
 
 # STRUCTURAL PATTERNS
 | Structural Patterns | Description |
 | --- | --- |
-Adapter: Traduce interfaces incompatibles.
-Decorator: Extiende funcionalidad dinámicamente evitando jerarquías rígidas de herencia.
+| -Decorator: Extiende funcionalidad dinámicamente evitando jerarquías rígidas de herencia. | |
+| Adapter: Traduce interfaces incompatibles. | |
 
 # BEHAVIORAL PATTERNS
 | Creational Patterns | Description |
 | --- | --- |
-| ok-Observer (pub-sub, listener) | Messaging pattern define subs mechanism to notify objects |
+| -Observer (pub-sub, listener) | Messaging pattern define subs mechanism to notify objects |
 | Chain of Responsibility |  |
 | Command |  |
 | Iterator |  |
 | Mediator |  |
 | Memento |  |
 | State |  |
-| Strategy |  |
+| -Strategy |  |
 | Template Method |  |
 | Visitor |  |
 
