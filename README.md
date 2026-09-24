@@ -29,13 +29,13 @@ These patterns offer different ways to create objects making code more flexibili
 | Creational Patterns | Description |
 | --- | --- |
 | -Observer (pub-sub, listener) | Messaging pattern define subs mechanism to notify objects |
+| -Strategy |  |
 | Chain of Responsibility |  |
 | Command |  |
 | Iterator |  |
 | Mediator |  |
 | Memento |  |
 | State |  |
-| -Strategy |  |
 | Template Method |  |
 | Visitor |  |
 
