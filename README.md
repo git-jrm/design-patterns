@@ -28,7 +28,7 @@ These patterns offer different ways to create objects making code more flexibili
 # BEHAVIORAL PATTERNS
 | Creational Patterns | Description |
 | --- | --- |
-| -Observer (pub-sub, listener) | Messaging pattern define subs mechanism to notify objects |
+| -Observer (pub-sub, listener) | Messaging pattern define pub-subs mechanism to notify objects |
 | -Strategy |  |
 | Chain of Responsibility |  |
 | Command |  |
