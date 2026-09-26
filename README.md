@@ -16,8 +16,10 @@ These patterns offer different ways to create objects making code more flexibili
 | Creational Patterns | Description |
 | --- | --- |
 | -Singleton (unique instance) | Ensure only one instance and provide global access of a class |
-| -Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
 | -Builder | To complex object with multiparameter |
+| -Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
+| Abstract Factory |  |
+| Prototype |  |
 
 # STRUCTURAL PATTERNS
 | Structural Patterns | Description |
