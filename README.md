@@ -28,4 +28,6 @@ Welcome :] Quick guidelines on software principles, design patterns, data modeli
 
 #### Bibliografía:
 
+
+[Software design](https://en.wikipedia.org/wiki/Category:Software_design)
 [principles fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals)
