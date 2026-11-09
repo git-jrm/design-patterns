@@ -4,11 +4,11 @@ Welcome to this centralized repository of notes, patterns, diagrams, and best pr
 
 ## DESIGN PRINCIPLES
 
-[DESIGN PRINCIPLES](https://ejemplo.com](https://github.com/git-jrm/software-design/blob/main/DESIGN-PRINCIPLES.md)
+[DESIGN PRINCIPLES](./DESIGN-PRINCIPLES.md)
 
 ## DESIGN PATTERNS
 
-[DESIGN PATTERNS](https://ejemplo.com](https://github.com/git-jrm/software-design/blob/main/DESIGN-PATTERNS.md)
+[DESIGN PATTERNS](./DESIGN-PATTERNS.md)
 
 ## Data modeling
 
