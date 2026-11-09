@@ -9,8 +9,11 @@
 ## 💬 INDEX
 
 * **Creational patterns** provide object creation mechanisms to more flexibility and code reuse.
+* 
 * **Structural patterns** allow assemble objects and classes while keeping flexible and efficient structure.
+* 
 * **Behavioral patterns** to effective communication and assignment of responsibilities between objects.
+
 
 # CREATIONAL PATTERNS
 
