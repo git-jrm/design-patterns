@@ -10,9 +10,13 @@ Welcome :] Quick guidelines on software principles, design patterns, data modeli
 
 [DESIGN PATTERNS](./DESIGN-PATTERNS.md)
 
-## Software architecture [Software architecture](https://en.wikipedia.org/wiki/Category:Software_architecture)
+## Software architecture
 
-## Data modeling [Data modeling](https://en.wikipedia.org/wiki/Category:Data_modeling)
+[Software architecture](https://en.wikipedia.org/wiki/Category:Software_architecture)
+
+## Data modeling
+
+[Data modeling](https://en.wikipedia.org/wiki/Category:Data_modeling)
 
 [data architecture](https://github.com/git-jrm/data-architecture-modeling)
 
