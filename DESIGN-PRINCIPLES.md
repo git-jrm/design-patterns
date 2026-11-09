@@ -18,12 +18,12 @@ The single-responsibility principle (SRP) states that there should never be more
 ### Open–closed principle
 The open–closed principle (OCP) states that software entities should be open for extension, but closed for modification.[8]
 
-## Liskov substitution principle
+### Liskov substitution principle
 The Liskov substitution principle (LSP) states that functions that use pointers or references to base classes must be able to use pointers or references of derived classes without knowing it.[9]
 
-## Interface segregation principle
+### Interface segregation principle
 The interface segregation principle (ISP) states that clients should not be forced to depend upon interface methods that they do not use.[10][4]
 
-## Dependency inversion principle
+### Dependency inversion principle
 The dependency inversion principle (DIP) states that one should depend upon abstractions, not concretes.[11][4]
 
