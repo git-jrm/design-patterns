@@ -12,7 +12,7 @@ Welcome here :] repository containing notes of principles,  patterns, data model
 
 ## Software architecture
 
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
+[Software architecture](https://en.wikipedia.org/wiki/Category:Software_architecture)
 
 ## Data modeling
 
