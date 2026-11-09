@@ -10,8 +10,14 @@ Welcome here :] repository containing notes of principles,  patterns, data model
 
 [DESIGN PATTERNS](./DESIGN-PATTERNS.md)
 
+## Software architecture
+
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
+
 ## Data modeling
 
 [data architecture](https://github.com/git-jrm/data-architecture-modeling)
 
 [db scaling sql](https://github.com/git-jrm/db-scaling-sql-nosql)
+
+
