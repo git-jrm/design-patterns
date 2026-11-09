@@ -50,7 +50,7 @@ Strategy: Elimina switch/if-else complejos encapsulando algoritmos intercambiabl
 
 Observer: Eje central de arquitecturas orientadas a eventos y programación reactiva.
 
-*(Tendencia actual: Prefiere composición sobre herencia y simplifica patrones pesados (como Strategy o Command) usando funciones de primera clase o closures en lenguajes modernos.)
+*(Tendencia actual: Prefiere composición sobre herencia y simplifica patrones pesados (como Strategy o Command) usando funciones de primera clase o closures en lenguajes modernos.).
 
 
 
