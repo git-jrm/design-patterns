@@ -7,11 +7,13 @@
 * The most low-level patterns are _idioms_, the most high-level patterns are _architectural patterns_.
 
 ## 💬 INDEX
+
 * **Creational patterns** provide object creation mechanisms to more flexibility and code reuse.
 * **Structural patterns** allow assemble objects and classes while keeping flexible and efficient structure.
 * **Behavioral patterns** to effective communication and assignment of responsibilities between objects.
 
 # CREATIONAL PATTERNS
+
 These patterns offer different ways to create objects making code more flexibility and reuse current code.
 | Creational Patterns | Description |
 | --- | --- |
@@ -22,12 +24,14 @@ These patterns offer different ways to create objects making code more flexibili
 | Prototype |  |
 
 # STRUCTURAL PATTERNS
+
 | Structural Patterns | Description |
 | --- | --- |
 | -Decorator: Extiende funcionalidad dinámicamente evitando jerarquías rígidas de herencia. | |
 | Adapter: Traduce interfaces incompatibles. | |
 
 # BEHAVIORAL PATTERNS
+
 | Creational Patterns | Description |
 | --- | --- |
 | -Observer (pub-sub, listener) | Messaging pattern define pub-subs mechanism to notify objects |
