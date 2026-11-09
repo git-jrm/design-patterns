@@ -1,6 +1,6 @@
 # SOFTWARE DESIGN
 
-Welcome here :] repository containing notes of principles,  patterns, data modeling and best practices for software design and architecture.
+Welcome :] Quick guidelines on software principles, design patterns, data modeling, and project management following industry best practices.
 
 ## DESIGN PRINCIPLES
 
@@ -10,13 +10,9 @@ Welcome here :] repository containing notes of principles,  patterns, data model
 
 [DESIGN PATTERNS](./DESIGN-PATTERNS.md)
 
-## Software architecture
+## Software architecture [Software architecture](https://en.wikipedia.org/wiki/Category:Software_architecture)
 
-[Software architecture](https://en.wikipedia.org/wiki/Category:Software_architecture)
-
-## Data modeling
-
-[Data modeling](https://en.wikipedia.org/wiki/Category:Data_modeling)
+## Data modeling [Data modeling](https://en.wikipedia.org/wiki/Category:Data_modeling)
 
 [data architecture](https://github.com/git-jrm/data-architecture-modeling)
 
@@ -25,3 +21,4 @@ Welcome here :] repository containing notes of principles,  patterns, data model
 ## Software project management
 
 [Software project management](https://en.wikipedia.org/wiki/Category:Software_project_management)
+
