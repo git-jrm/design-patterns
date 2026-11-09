@@ -22,3 +22,6 @@ Welcome :] Quick guidelines on software principles, design patterns, data modeli
 
 [Software project management](https://en.wikipedia.org/wiki/Category:Software_project_management)
 
+#### Bibliografía:
+
+[principles fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals)
