@@ -1,5 +1,7 @@
 # DESIGN PRINCIPLES
 
+High Cohesion & Low Coupling: Group related functionality closely together (high cohesion) while keeping dependencies between separate modules loose and independent (low coupling).
+
 ## General Principles
 
 - KISS (Keep It Simple Sir): Prefer the simplest design that solves the problem. Simple code is easier to debug and trust than other clever solutions.
