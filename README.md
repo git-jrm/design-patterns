@@ -1,6 +1,6 @@
 # SOFTWARE DESIGN
 
-Welcome :] Quick guidelines on software principles, design patterns, data modeling, and project management following industry best practices.
+Welcome :] Quick guidelines on software principles, design patterns, data modeling and project management following industry best practices.
 
 ## DESIGN PRINCIPLES
 
