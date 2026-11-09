@@ -1,6 +1,6 @@
 # SOFTWARE DESIGN
 
-Welcome to this centralized repository of notes, patterns, diagrams, and best practices for software design and architecture.
+Welcome here :] repository containing notes of principles,  patterns, data modeling and best practices for software design and architecture.
 
 ## DESIGN PRINCIPLES
 
@@ -12,3 +12,5 @@ Welcome to this centralized repository of notes, patterns, diagrams, and best pr
 
 ## Data modeling
 
+[data architecture](https://github.com/git-jrm/data-architecture-modeling)
+[db scaling sql](https://github.com/git-jrm/db-scaling-sql-nosql)
