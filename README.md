@@ -1,5 +1,5 @@
 # DESIGN PATTERNS
-
+ 
 * Design patterns are known solutions to recurring problems in software design in code.
 * The patterns is not specific piece of code, but a general concept for solving problem.
 * An algorithm is a recipe, whereas a pattern is a blueprint.
