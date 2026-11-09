@@ -13,4 +13,5 @@ Welcome here :] repository containing notes of principles,  patterns, data model
 ## Data modeling
 
 [data architecture](https://github.com/git-jrm/data-architecture-modeling)
+
 [db scaling sql](https://github.com/git-jrm/db-scaling-sql-nosql)
