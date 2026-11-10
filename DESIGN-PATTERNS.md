@@ -1,9 +1,11 @@
-# DESIGN PATTERNS
+[⬅️Home](./README.md)
+
+# 🧩 DESIGN PATTERNS
   
-* Design patterns are known solutions to recurring problems in software design in code.
-* The patterns is not specific piece of code, but a general concept for solving problem.
+* Design patterns are known solutions to recurring problems in software design.
+* The patterns is not specific piece of code, but a general concept for solving a problem.
 * An algorithm is a recipe, whereas a pattern is a blueprint.
-* The pattern consist of: intent (problem and solution) + motivation (detailed problem and solution) + structure (components relationships) + code (example).
+* A pattern consist of: intent (problem and solution) + motivation (detailed problem and solution) + structure (components relationships) + code (example).
 * The most low-level patterns are _idioms_, the most high-level patterns are _architectural patterns_.
 
 ## 💬 INDEX
@@ -12,7 +14,7 @@
 * **Structural patterns** explain how to assemble objects and classes into larger structures while keeping them flexible and efficient.
 * **Behavioral patterns** take care of effective communication and the assignment of responsibilities between objects.
 
-## CREATIONAL PATTERNS
+## 🛠️ CREATIONAL PATTERNS
 
 These patterns offer different ways to create objects, making code more flexible and reusable.
 
@@ -20,11 +22,11 @@ These patterns offer different ways to create objects, making code more flexible
 | --- | --- |
 | **Singleton** | Ensures a class has only one instance and provides a global point of access to it. |
 | **Builder** | Constructs complex objects step by step, avoiding constructors with multiple parameters. |
-| **Factory Method** | Provide interface for create objects in a superclass allowing subclasses alter object type. |
+| **Factory Method** | Provides an interface for creating objects in a superclass, allowing subclasses to alter the object type. |
 | **Abstract Factory** | Produces families of related objects without specifying their concrete classes. |
 | **Prototype** | Copies existing objects without making the code dependent on their classes. |
 
-## STRUCTURAL PATTERNS
+## 🏗️ STRUCTURAL PATTERNS
 
 These patterns assemble objects and classes into larger structures while keeping them flexible.
 
@@ -38,9 +40,11 @@ These patterns assemble objects and classes into larger structures while keeping
 | **Bridge** | Splits a large class or closely related classes into two separate hierarchies (abstraction and implementation). |
 | **Flyweight** | Fits more objects into available RAM by sharing common parts of state between multiple objects. |
 
-## BEHAVIORAL PATTERNS
+## 🔄 BEHAVIORAL PATTERNS
 
-| Creational Patterns | Description |
+These patterns manage algorithms, relationships, and responsibilities between objects.
+
+| Behavioral Patterns | Description |
 | --- | --- |
 | **Observer** | Defines a subscription mechanism (pub-sub/listener) to notify multiple objects about events. |
 | **Strategy** | Encapsulates a family of interchangeable algorithms, eliminating complex `if-else` or `switch` blocks. |
@@ -54,3 +58,5 @@ These patterns assemble objects and classes into larger structures while keeping
 | **Visitor** | Separates algorithms from the objects on which they operate. |
 
 > **Modern Trend:** Prefer composition over inheritance, and simplify heavy patterns (like Strategy or Command) using first-class functions or closures in modern languages.
+
+[⬅️Home](./README.md)
