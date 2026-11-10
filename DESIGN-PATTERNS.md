@@ -12,7 +12,7 @@
 * **Structural patterns** explain how to assemble objects and classes into larger structures while keeping them flexible and efficient.
 * **Behavioral patterns** take care of effective communication and the assignment of responsibilities between objects.
 
-# CREATIONAL PATTERNS
+## CREATIONAL PATTERNS
 
 These patterns offer different ways to create objects, making code more flexible and reusable.
 
@@ -24,8 +24,7 @@ These patterns offer different ways to create objects, making code more flexible
 | **Abstract Factory** | Produces families of related objects without specifying their concrete classes. |
 | **Prototype** | Copies existing objects without making the code dependent on their classes. |
 
-
-# STRUCTURAL PATTERNS
+## STRUCTURAL PATTERNS
 
 These patterns assemble objects and classes into larger structures while keeping them flexible.
 
@@ -39,28 +38,19 @@ These patterns assemble objects and classes into larger structures while keeping
 | **Bridge** | Splits a large class or closely related classes into two separate hierarchies (abstraction and implementation). |
 | **Flyweight** | Fits more objects into available RAM by sharing common parts of state between multiple objects. |
 
-
-# BEHAVIORAL PATTERNS
+## BEHAVIORAL PATTERNS
 
 | Creational Patterns | Description |
 | --- | --- |
-| -Observer (pub-sub, listener) | Messaging pattern define pub-subs mechanism to notify objects |
-| -Strategy | Allows create a group of different algorithms in interchangeable classes |
-| Chain of Responsibility |  |
-| Command |  |
-| Iterator |  |
-| Mediator |  |
-| Memento |  |
-| State |  |
-| Template Method |  |
-| Visitor |  |
+| **Observer** | Defines a subscription mechanism (pub-sub/listener) to notify multiple objects about events. |
+| **Strategy** | Encapsulates a family of interchangeable algorithms, eliminating complex `if-else` or `switch` blocks. |
+| **Chain of Responsibility** | Passes requests along a chain of handlers until one of them processes it. |
+| **Command** | Turns a request into a stand-alone object containing all information about the request. |
+| **Iterator** | Traverses elements of a collection without exposing its underlying representation. |
+| **Mediator** | Reduces chaotic dependencies between objects by forcing them to communicate only via a mediator object. |
+| **Memento** | Saves and restores the previous state of an object without revealing its implementation details. |
+| **State** | Lets an object alter its behavior when its internal state changes. |
+| **Template Method** | Defines the skeleton of an algorithm in a superclass, letting subclasses override specific steps. |
+| **Visitor** | Separates algorithms from the objects on which they operate. |
 
---
-Strategy: Elimina switch/if-else complejos encapsulando algoritmos intercambiables.
-
-Observer: Eje central de arquitecturas orientadas a eventos y programación reactiva.
-
-*(Tendencia actual: Prefiere composición sobre herencia y simplifica patrones pesados (como Strategy o Command) usando funciones de primera clase o closures en lenguajes modernos.).
-
-
-
+> **Modern Trend:** Prefer composition over inheritance, and simplify heavy patterns (like Strategy or Command) using first-class functions or closures in modern languages.
