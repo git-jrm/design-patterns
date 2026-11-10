@@ -1,3 +1,5 @@
+[⬅️Home](./README.md)
+
 # 🏛️ SOFTWARE ARCHITECTURE
 
 Software architecture defines the high-level structure of a system, its main components, how they interact, and the key decisions that ensure quality attributes like scalability and maintainability.
@@ -42,3 +44,5 @@ Standard tools to communicate architectural decisions clearly.
 
 - **C4 Model:** Visualizes software architecture across four zoom levels: **Context**, **Containers**, **Components**, and **Code**.
 - **ADRs (Architecture Decision Records):** Short text files that document an important technical choice, its context, and its trade-offs.
+
+[⬅️Home](./README.md)
