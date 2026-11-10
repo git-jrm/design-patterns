@@ -1,33 +1,24 @@
-# SOFTWARE DESIGN
+# Software Design
 
-Welcome :] Quick guidelines on software principles, design patterns, data modeling and project management following industry best practices.
+Welcome :] Quick guidelines on software design principles, design patterns, software architecture, data modeling, and project management following industry best practices.
 
-## DESIGN PRINCIPLES
+## Design Principles
+* [Design Principles](./DESIGN-PRINCIPLES.md)
 
-[DESIGN PRINCIPLES](./DESIGN-PRINCIPLES.md)
+## Design Patterns
+* [Design Patterns](./DESIGN-PATTERNS.md)
 
-## DESIGN PATTERNS
+## Software Architecture
+* [Software Architecture (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_architecture)
 
-[DESIGN PATTERNS](./DESIGN-PATTERNS.md)
+## Data Modeling & Architecture
+* [Data Modeling (Wikipedia)](https://en.wikipedia.org/wiki/Category:Data_modeling)
+* [Data Architecture & Dimensional Modeling](https://github.com/git-jrm/data-architecture-modeling)
+* [Database Scaling: SQL vs NoSQL](https://github.com/git-jrm/db-scaling-sql-nosql)
 
-## Software architecture
+## Software Project Management
+* [Software Project Management (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_project_management)
 
-[Software architecture](https://en.wikipedia.org/wiki/Category:Software_architecture)
-
-## Data modeling
-
-[Data modeling](https://en.wikipedia.org/wiki/Category:Data_modeling)
-
-[data architecture](https://github.com/git-jrm/data-architecture-modeling)
-
-[db scaling sql](https://github.com/git-jrm/db-scaling-sql-nosql)
-
-## Software project management
-
-[Software project management](https://en.wikipedia.org/wiki/Category:Software_project_management)
-
-#### BIBLIOGRAFÍA
-
-[Software design](https://en.wikipedia.org/wiki/Category:Software_design)
-
-[principles fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals)
+## References
+* [Software Design (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_design)
+* [Software Design Principles Fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals)
