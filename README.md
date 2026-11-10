@@ -16,9 +16,6 @@ Welcome :] Quick guidelines on software design principles, design patterns, soft
 * [Data Architecture & Dimensional Modeling](https://github.com/git-jrm/data-architecture-modeling)
 * [Database Scaling: SQL vs NoSQL](https://github.com/git-jrm/db-scaling-sql-nosql)
 
-## Software Project Management
-* [Software Project Management (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_project_management)
-
 ## References
 * [Software Design (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_design)
 * [Software Design Principles Fundamentals](https://github.com/GoranKukic/software-design-principles-fundamentals)
