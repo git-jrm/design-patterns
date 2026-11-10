@@ -1,8 +1,8 @@
-# SOFTWARE ARCHITECTURE
+# 🏛️ SOFTWARE ARCHITECTURE
 
 Software architecture defines the high-level structure of a system, its main components, how they interact, and the key decisions that ensure quality attributes like scalability and maintainability.
 
-## Architectural Patterns
+## 🏗️ Architectural Patterns
 
 Common high-level ways to organize an application or system.
 
@@ -12,10 +12,11 @@ Common high-level ways to organize an application or system.
 | **Layered (N-Tier)** | Separates code into horizontal layers (such as Presentation, Business Logic, and Data Access) with clear responsibilities. |
 | **Microservices** | Splits the system into small, independent services that communicate over a network and can be deployed separately. |
 | **Event-Driven** | Components communicate asynchronously by producing and reacting to events, enabling high decoupling and scalability. |
+| **CQRS** | Separates read (Query) and write (Command) operations into different models to optimize performance and scalability. |
 | **Serverless** | Runs code in stateless, event-triggered functions (FaaS) managed by a cloud provider without handling server infrastructure. |
 | **Hexagonal (Ports & Adapters)** | Isolates core business logic from external tools (databases, UI, APIs) using interfaces (ports) and implementations (adapters). |
 
-## Key Architectural Principles
+## 🧭 Key Architectural Principles
 
 Core guidelines to keep system structures flexible and resilient.
 
@@ -24,7 +25,7 @@ Core guidelines to keep system structures flexible and resilient.
 - **Stateless Design:** Avoid storing user session data inside application servers so any instance can handle any request.
 - **Design for Failure:** Assume components and networks will fail; use retries, timeouts, and circuit breakers to prevent cascading crashes.
 
-## Distributed Systems Trade-offs
+## ⚖️ Distributed Systems Trade-offs
 
 Key decisions when scaling systems across multiple servers or regions.
 
@@ -35,7 +36,7 @@ Key decisions when scaling systems across multiple servers or regions.
 | **Sync vs. Async Communication** | **Sync** (REST, gRPC) waits for an immediate response; **Async** (Queues, Pub/Sub) sends a message and continues without waiting. |
 | **Caching** | Stores frequently accessed data in fast memory (such as Redis) to reduce database load and lower latency. |
 
-## Documentation & Diagrams
+## 🗺️ Documentation & Diagrams
 
 Standard tools to communicate architectural decisions clearly.
 
