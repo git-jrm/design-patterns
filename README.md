@@ -1,6 +1,6 @@
 # Software Design
 
-Welcome :] Quick guidelines on software design principles, design patterns, software architecture, data modeling, and project management following industry best practices.
+Welcome :] Quick guidelines on software design principles, design patterns, software architecture, and data modeling following industry best practices.
 
 ## Design Principles
 * [Design Principles](./DESIGN-PRINCIPLES.md)
