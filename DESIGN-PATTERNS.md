@@ -8,23 +8,21 @@
 
 ## 💬 INDEX
 
-* **Creational patterns** provide object creation mechanisms to more flexibility and code reuse.
-* 
-* **Structural patterns** allow assemble objects and classes while keeping flexible and efficient structure.
-* 
-* **Behavioral patterns** to effective communication and assignment of responsibilities between objects.
-
+* **Creational patterns** provide object creation mechanisms to increase flexibility and code reuse.
+* **Structural patterns** explain how to assemble objects and classes into larger structures while keeping them flexible and efficient.
+* **Behavioral patterns** take care of effective communication and the assignment of responsibilities between objects.
 
 # CREATIONAL PATTERNS
 
 These patterns offer different ways to create objects making code more flexibility and reuse current code.
 | Creational Patterns | Description |
 | --- | --- |
-| -Singleton (unique instance) | Ensure only one instance and provide global access of a class |
-| -Builder | To complex object with multiparameter |
-| -Factory Method | Provide interface for create objects in a superclass allowing subclasses to alter object type |
-| Abstract Factory |  |
-| Prototype |  |
+| **Singleton** | Ensures a class has only one instance and provides a global point of access to it. |
+| **Builder** | Constructs complex objects step by step, avoiding constructors with multiple parameters. |
+| **Factory Method** | Provide interface for create objects in a superclass allowing subclasses alter object type. |
+| **Abstract Factory** | Produces families of related objects without specifying their concrete classes. |
+| **Prototype** | Copies existing objects without making the code dependent on their classes. |
+
 
 # STRUCTURAL PATTERNS
 
