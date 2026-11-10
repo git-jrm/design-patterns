@@ -13,8 +13,8 @@ Welcome :] Quick guidelines on software design principles, design patterns, soft
 
 ## Data Modeling & Architecture
 * [Data Modeling (Wikipedia)](https://en.wikipedia.org/wiki/Category:Data_modeling): Fundamental concepts for structuring logical entities, schemas, and data relationships.
-* [Data Architecture & Dimensional Modeling](https://github.com/git-jrm/data-architecture-modeling): Real-world cases covering Data Lakes, Data Warehouses, governance, and Kimball star schemas.
-* [Database Scaling: SQL vs NoSQL](https://github.com/git-jrm/db-scaling-sql-nosql): Practical trade-offs on scaling relational databases, migrating to NoSQL, and designing DynamoDB keys.
+* [Data Architecture & Dimensional Modeling](https://github.com/git-jrm/data-architecture-modeling): **[Case Study Repo]** Real-world cases covering Data Lakes, Data Warehouses, governance, and Kimball star schemas.
+* [Database Scaling: SQL vs NoSQL](https://github.com/git-jrm/db-scaling-sql-nosql): **[Case Study Repo]** Practical trade-offs on scaling relational databases, migrating to NoSQL, and designing DynamoDB keys.
 
 ## References
 * [Software Design (Wikipedia)](https://en.wikipedia.org/wiki/Category:Software_design): Broad taxonomy of software design methods, concepts, and engineering standards.
